@@ -95,7 +95,7 @@ A full-stack expense-sharing platform that allows users to create groups, record
 * 📱 Responsive mobile-first interface
 * 🚀 Full-stack deployment on Render
 
-🔗 **[View Repository](https://github.com/AkashChaudhary180)**
+🔗 **[View Repository](https://github.com/AkashChaudhary180/Tally-)**
 
 ---
 
